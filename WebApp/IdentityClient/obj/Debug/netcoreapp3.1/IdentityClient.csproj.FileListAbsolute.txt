@@ -1,0 +1,16 @@
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityClient.exe
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.csprojAssemblyReference.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.AssemblyInfoInputs.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.AssemblyInfo.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityClient.deps.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityClient.runtimeconfig.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityClient.runtimeconfig.dev.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityClient.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityClient.pdb
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.csproj.CoreCompileInputs.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.csproj.CopyComplete
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.pdb
+C:\projetos\PrimeIT\curso .net Core\WebApp\IdentityClient\obj\Debug\netcoreapp3.1\IdentityClient.genruntimeconfig.cache

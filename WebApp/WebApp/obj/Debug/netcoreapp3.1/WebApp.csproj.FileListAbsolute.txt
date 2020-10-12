@@ -1,0 +1,154 @@
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Projects\NetCore_092020\Projeto\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\projetos\PrimeIT\curso .net Core\WebApp\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
